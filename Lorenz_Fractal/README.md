@@ -1,1 +1,1 @@
-
+The Lorenz fractal is a visual representation of the Lorenz attractor, a set of chaotic solutions of the Lorenz system of differential equations. The pattern emerges by iterating Newton's method on a grid of initial conditions, the fractal pattern emerges, showcasing the system's sensitivity to initial conditions and its complex, self-similar structure.
